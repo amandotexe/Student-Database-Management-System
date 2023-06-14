@@ -3,6 +3,8 @@
 ## Introduction
 The Student Database Management System is a web-based application developed using HTML, CSS, JavaScript, PHP, and MySQL. It provides a user-friendly interface for students to sign up, log in, and access various features such as attendance tracking, marks management, timetable, and course subjects. This documentation aims to guide users on how to effectively use and navigate through the system.
 
+![image](https://github.com/amandotexe/Student-Database-Management-System/assets/71628234/e7a8129c-8c21-4cc8-850c-2a2ece87fe5b)
+
 ## System Requirements
 To run the Student Database Management System, ensure that the following requirements are met:
 
@@ -18,9 +20,6 @@ Follow the steps below to install and set up the Student Database Management Sys
 3. Import the provided MySQL database file (`database.sql`) into your MySQL server.
 4. Configure the database connection settings in the `config.php` file, including the hostname, username, password, and database name
 
-![image](https://github.com/amandotexe/Student-Database-Management-System/assets/71628234/e7a8129c-8c21-4cc8-850c-2a2ece87fe5b)
-
-
 ## User Guide
 
 ### Sign Up
@@ -29,8 +28,9 @@ Follow the steps below to install and set up the Student Database Management Sys
 3. Fill in the required information, including your full name, email address, password, and student ID.
 4. Click the "Sign Up" button to register your account.
 5. Upon successful registration, you will be redirected to the login page.
-   
-![image](https://github.com/amandotexe/Student-Database-Management-System/assets/71628234/4b8890f9-f9e3-412d-a09d-1c42d34d531d)
+
+![image](https://github.com/amandotexe/Student-Database-Management-System/assets/71628234/4033e48b-d8a5-45cb-a60d-dd2e3829dd5a)
+
 
 ### Login
 1. Access the Student Database Management System URL.
