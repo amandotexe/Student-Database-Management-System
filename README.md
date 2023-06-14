@@ -1,4 +1,4 @@
-# Student Database Management System Documentation
+# Student Database Management System
 
 ## Introduction
 The Student Database Management System is a web-based application developed using HTML, CSS, JavaScript, PHP, and MySQL. It provides a user-friendly interface for students to sign up, log in, and access various features such as attendance tracking, marks management, timetable, and course subjects. This documentation aims to guide users on how to effectively use and navigate through the system.
